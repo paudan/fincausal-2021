@@ -1,0 +1,8 @@
+flair
+stanza
+allennlp<1.0
+pandas
+scikit-learn
+catboost
+funcy
+nltk
